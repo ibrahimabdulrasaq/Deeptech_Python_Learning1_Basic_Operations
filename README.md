@@ -1,0 +1,2 @@
+# Deeptech_Python_Learning1_Technical_Deep_Dive_Python
+This repository demonstrates basic operations and computations in python.
