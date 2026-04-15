@@ -60,7 +60,7 @@ Through this project, I gained hands-on experience:
 - Breaking down problems into logical steps
 - Using Python for basic data manipulation
 
-🙌 Acknowledgment
+## 🙌 Acknowledgment
 
 This project is part of my learning journey in the 3MTT DeepTech_Ready Upskilling Program, supported by Data Science Nigeria (DSN) and partners.
 
