@@ -1,6 +1,6 @@
 # 🐍 Basic Operations in Python
 
-This project is part of my learning journey through the **3MTT DeepTech Ready Upskilling Program**, where I am building strong foundations in Python programming and data analysis.
+This project is part of my learning journey through the **3MTT DeepTech Ready Upskilling Program**.
 
 ## 📌 Overview
 
